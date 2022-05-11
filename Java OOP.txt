@@ -1,0 +1,18 @@
+OOP
+Interface loai bo tinh du thua cua ke thua -> class con ke thua class abstract phai override tat ca pt abstract
+Java la don ke thua -> class chi ke thua 1 class
+Java 8 -> Interface co the chua cac phuong thuc default co body -> class implement co the ko can override method default
+This -> chi doi tuong nam trong class
+Interface va Abstract ko the new -> Chi co the interface a = new class implementation interface
+Convat c = new Dog() -> c la con vat  nhung ban chat no la  con cho
+Cat m=new Cat() -> m la con meo. No chac chan la con meo
+
+Collection
+Mang 1 chieu tap hop cac phan tu cung 1 kieu du lieu
+Mang 1 chieu gioi han so phan tu luc khoi tao -> NullPoiterException
+List: mang 1 chieu nhung so luong phan tu dong -> no la interface -> no co the new ArrayList va LinkedList
+ArrayList: add, size, get, remove, isEmpty, addAll:them mang khac vao cuoi mang, contains, indexOf, lastIndexOf, removeAll, clear, subList:tim mang con tu vi tri, set:cap nhat gia tri tai vi tri,  
+
+
+
+
